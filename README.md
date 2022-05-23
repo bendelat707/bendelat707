@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<!---
+https://vk.com/away.php?utf=1&to=https%3A%2F%2Fsmallpdf.com%2Fru%2Ffile%23s%3D862ac7f1-de38-45dc-a96a-563efcba9193
+
 bendelat707/bendelat707 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
